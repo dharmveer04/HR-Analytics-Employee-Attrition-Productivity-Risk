@@ -73,7 +73,20 @@ The project demonstrates how HR analytics can be used to convert raw employee da
 It reflects a real-world, industry-level analytics use case.
 
 ---
+## Dashboard ScreenShot
+
+### HR OVERVIEW (EXECUTIVE PAGE)
+![POWER_BI_DASHBOARD  SCREENSHOT](HR OVERVIEW (EXECUTIVE PAGE).png)
+
+### PRODUCTIVITY RISK
+![POWER_BI_DASHBOARD  SCREENSHOT](PRODUCTIVITY RISK.png)
+
+### ATTRITION RISK ANALYSIS
+![POWER_BI_DASHBOARD  SCREENSHOT](ATTRITION RISK ANALYSIS.png)
 
 ## 👤 Author
 **Dharmveer Patel**  
 Aspiring Data Analyst | SQL | Python | Power BI
+
+
+
