@@ -34,17 +34,23 @@ Additional engineered fields:
 ## 📊 Dashboard Structure
 
 ### 🔹 Page 1: HR Overview
+![Executive Overview](hr_attrtion_analysis_screenshot/hr_overview_page.png)
+
 - Total Employees
 - Attrition Count
 - Attrition by Department
 - High-level workforce health summary
 
 ### 🔹 Page 2: Attrition Risk Analysis
+![attrition_risk_analysis](hr_attrtion_analysis_screenshot/attrition_risk_analysis.png)
+
 - Employee distribution by attrition risk
 - Department-wise attrition risk comparison
 - Identification of high-risk employee segments
 
 ### 🔹 Page 3: Productivity Risk Analysis
+![productivity_risk](hr_attrtion_analysis_screenshot/productivity_risk.png)
+
 - Productivity risk by job role
 - Performance rating vs productivity risk
 - Employees requiring performance intervention
@@ -77,6 +83,7 @@ It reflects a real-world, industry-level analytics use case.
 ## 👤 Author
 **Dharmveer Patel**  
 Aspiring Data Analyst | SQL | Python | Power BI
+
 
 
 
